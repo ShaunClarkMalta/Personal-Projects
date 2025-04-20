@@ -1,7 +1,7 @@
 # Dhaeris' Spellbook :notebook_with_decorative_cover:
 
 ### About
-This was one of the first projects I created on my own. I have recently became interested in Dungeons and Dragons and have been playing for a while. Through a convoluted set of circumstances, I am now a Dungeon Master for a Campaign. One player decided that he wanted to be a Wizard and, starting at a higher level, meant that I wanted to give him a couple of new spells that he might have found prior to the beginning of the campaign.
+This was one of the first projects I created on my own. I have recently became interested in Dungeons and Dragons and have been playing for a while. Through a convoluted set of circumstances, I am now a Dungeon Master for a Campaign. One player (who was to be named Dhaeris, hence the name) decided that he wanted to be a Wizard and, starting at a higher level, meant that I wanted to give him a couple of new spells that he might have found prior to the beginning of the campaign.
 
 Whilst I could have just rolled a dice randomly, or even asked him to pick them himself, I decided to use my knowledge of Python to create a spellbook of sorts. 
 
