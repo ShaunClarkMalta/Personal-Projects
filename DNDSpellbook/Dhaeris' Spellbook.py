@@ -3,6 +3,7 @@ import os
 
 #Declare and Create the Tuples containing the spells by Class and Level.
 #These will be turned into a full archive as nested tuples
+#Need to add the rest of the spells
 
 #Artificer Class
 artificer_lv1 = ("Absorb Elements", "Alarm", "Catapult", "Cure Wounds", "Detect Magic", "Disguise Self", "Expeditious Retreat", "Faerie Fire", "False Life", "Feather Fall", "Grease", "Identify", "Jump", "Longstrider", "Purify Food And Drink", "Sanctuary", "Snare", "Tasha's Caustic Brew")
