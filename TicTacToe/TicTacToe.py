@@ -54,7 +54,7 @@ def victory_check(board):
     else:
         return victory
 
-  def tic_tac_toe():
+def tic_tac_toe():
     '''
     Game for 2 human players sitting at the same computer.
     
@@ -146,3 +146,5 @@ def victory_check(board):
 
     else:
         print("Have a good day, and see you next time!")
+
+tic_tac_toe()
